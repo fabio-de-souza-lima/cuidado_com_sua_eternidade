@@ -160,7 +160,7 @@ main .wrapper-roulette ul li span {
 body:after {
     content: "";
     background: url(../dead.jpg) no-repeat;
-    width: 210px;
+    width: 280px;
     height: 220px;
     position: absolute;
     animation: none;
